@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a, a:visited {
-	color:#482e60;
+	color:#5dbc44;
 	-webkit-transition:background .2s ease, background-color .2s ease, border .2s ease, color .2s ease, opacity .2s ease-in-out, outline .2s ease;
 	-moz-transition:background .2s ease, background-color .2s ease, border .2s ease, color .2s ease, opacity .2s ease-in-out, outline .2s ease;
 	-ms-transition:background .2s ease, background-color .2s ease, border .2s ease, color .2s ease, opacity .2s ease-in-out, outline .2s ease;
@@ -166,7 +166,7 @@ figure.embed-section {
 .padding-bottom40 { padding-bottom:40px !important; }
 .padding-bottom60 { padding-bottom:60px !important; }
 
-.required { color:#482e60; }
+.required { color:#5dbc44; }
 
 .gm-style img { max-width:none !important; }
 
@@ -192,7 +192,7 @@ textarea {
 	padding:14px 15px;
 }
 input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, textarea:focus {
-	border:3px solid #482e60;
+	border:3px solid #5dbc44;
 	outline:none;
 	-moz-box-shadow:none;
 	-webkit-box-shadow:none;
@@ -211,7 +211,7 @@ input[type="text"]:disabled, input[type="email"]:disabled, input[type="password"
 	text-align:center;
 	text-transform:uppercase;
 	font-weight:700;
-	background-color:#482e60;
+	background-color:#5dbc44;
 	padding:16px 25px 15px;
 	border:0px;
 	outline:none;
@@ -238,7 +238,7 @@ input[type="button"], input[type="submit"], input[type="reset"], button {
 .btn-custom.btn-lightblue, input[type="button"].btn-lightblue, input[type="submit"].btn-lightblue, input[type="reset"].btn-lightblue, button.btn-lightblue { background-color:#3ebdc2; }
 .btn-custom.btn-lightblue:hover, input[type="button"].btn-lightblue:hover, input[type="submit"].btn-lightblue:hover, input[type="reset"].btn-lightblue:hover, button.btn-lightblue:hover { background-color:#0e8a8f; }
 
-.btn-custom.btn-orange, input[type="button"].btn-orange, input[type="submit"].btn-orange, input[type="reset"].btn-orange, button.btn-orange { background-color:#482e60; }
+.btn-custom.btn-orange, input[type="button"].btn-orange, input[type="submit"].btn-orange, input[type="reset"].btn-orange, button.btn-orange { background-color:#5dbc44; }
 .btn-custom.btn-orange:hover, input[type="button"].btn-orange:hover, input[type="submit"].btn-orange:hover, input[type="reset"].btn-orange:hover, button.btn-orange:hover { background-color:#c94528; }
 
 .btn-custom.btn-purple, input[type="button"].btn-purple, input[type="submit"].btn-purple, input[type="reset"].btn-purple, button.btn-purple { background-color:#bf37c7; }
@@ -363,7 +363,7 @@ ul.list-arrow-circle li {
 .dropcaps.dropcaps-circle.dropcaps-blue { background-color:#44a3fc; }
 .dropcaps.dropcaps-circle.dropcaps-green { background-color:#29a115; }
 .dropcaps.dropcaps-circle.dropcaps-lightblue { background-color:#3ebdc2; }
-.dropcaps.dropcaps-circle.dropcaps-orange { background-color:#482e60; }
+.dropcaps.dropcaps-circle.dropcaps-orange { background-color:#5dbc44; }
 .dropcaps.dropcaps-circle.dropcaps-purple { background-color:#bf37c7; }
 .dropcaps.dropcaps-circle.dropcaps-yellow { background-color:#dd9b27; }
 	
@@ -525,7 +525,7 @@ div.ppt {
 		.nav-tabs > li > a {
 			line-height:auto;
 			color:#FFF;
-			background-color:#482e60;
+			background-color:#5dbc44;
 			padding:10px 25px;
 			margin:0px;
 			border:0px;
@@ -553,7 +553,7 @@ div.ppt {
 		font-size:11px;
 		text-transform:uppercase;
 		font-weight:700;
-		background-color:#482e60;
+		background-color:#5dbc44;
 		padding:10px 15px;
 	}
 	.accordion-heading .accordion-toggle:hover { background-color:#c94528; }
@@ -615,7 +615,7 @@ div.ppt {
 		position:absolute;
 		top:0;
 		bottom:0;
-		background-color:#482e60;
+		background-color:#5dbc44;
 	}
 .rate-overall {
 	position:relative;
@@ -634,7 +634,7 @@ div.ppt {
 		line-height:16px;
 		text-align:center;
 		text-transform:uppercase;
-		background-color:#482e60;
+		background-color:#5dbc44;
 		padding:16px 10px 22px;
 	}
 		.rate-overall .rate-overall-val h5 {
@@ -784,7 +784,7 @@ div.ppt {
 			margin:0px;
 			border:1px solid #e0e0e0;
 		}
-		#header .nav-menu-top form input[type="text"]:focus { border:1px solid #482e60; }
+		#header .nav-menu-top form input[type="text"]:focus { border:1px solid #5dbc44; }
 		#header .nav-menu-top form input[type="submit"] {
 			float:left;
 			font-size:12px;
@@ -837,7 +837,7 @@ div.ppt {
 	line-height:16px;
 	color:#FFF;
 	font-weight:700;
-	background-color:#482e60;
+	background-color:#5dbc44;
 }
 	#header .nav-menu-main ul {
 		float:left;
@@ -901,7 +901,7 @@ div.ppt {
 					#header .nav-menu-main .container > ul > li > ul > li > a, #header .nav-menu-main .container > ul > li > ul > li > ul > li > a {
 						float:left;
 						width:100%;
-						background-color:#482e60;
+						background-color:#5dbc44;
 						padding:15px 25px 13px;
 						border-top:1px solid #fa7254;
 						border-bottom:1px solid #c94325;
@@ -1046,7 +1046,7 @@ div.ppt {
 			width:40px;
 			color:#FFF;
 			font-size:15px;
-			background-color:#482e60;
+			background-color:#5dbc44;
 		}
 			#post .nav-page a.prev-page i, #post .nav-page a.next-page i {
 				position:absolute;
@@ -1075,7 +1075,7 @@ div.ppt {
 		#post .post .title a, #post .post .title span {
 			display:block;
 			color:#FFF;
-			background-color:#482e60;
+			background-color:#5dbc44;
 			padding:18px 25px;
 		}
 		#post .post .title a:hover { background-color:#c94528; }
@@ -1123,7 +1123,7 @@ div.ppt {
 			color:#FFF;
 			text-align:center;
 			line-height:50px;
-			background-color:#482e60;
+			background-color:#5dbc44;
 			z-index:200;
 		}
 			#post .post .post-thumbnail .post-icon .post-icon-arrow {
@@ -1176,7 +1176,7 @@ div.ppt {
 		line-height:16px;
 		text-transform:uppercase;
 		font-weight:700;
-		background-color:#482e60;
+		background-color:#5dbc44;
 		padding:10px 15px;
 	}
 	#post .post .btn-readmore:hover { background-color:#c94528; }
@@ -1196,7 +1196,7 @@ div.ppt {
 		color:#FFF;
 		font-size:24px;
 		line-height:30px;
-		background-color:#482e60;
+		background-color:#5dbc44;
 		padding:12px 20px;
 		margin:0px;
 	}
@@ -1233,7 +1233,7 @@ div.ppt {
 				}
 					#post .post .post-comment ul li .comment-author cite span {
 						color:#FFF;
-						background-color:#482e60;
+						background-color:#5dbc44;
 						padding:6px 10px;
 					}
 					#post .post .post-comment ul li .comment-author cite i {
@@ -1265,7 +1265,7 @@ div.ppt {
 				color:#FFF;
 				line-height:18px;
 				text-transform:lowercase;
-				background-color:#482e60;
+				background-color:#5dbc44;
 				padding:4px 15px 6px;
 			}
 			#post .post .post-comment ul li .comment-reply-link:hover { background-color:#c94528; }
@@ -1405,7 +1405,7 @@ div.ppt {
 	line-height:14px;
 	text-align:center;
 	text-transform:uppercase;
-	background-color:#482e60;
+	background-color:#5dbc44;
 	padding:12px 10px 16px;
 	z-index:200;
 }
@@ -1487,7 +1487,7 @@ div.ppt {
 			font-size:11px;
 			line-height:30px;
 			text-transform:lowercase;
-			background-color:#482e60;
+			background-color:#5dbc44;
 			padding:5px 12px;	
 		}
 		#post .single .post-tags a:hover { background-color:#c94528; }
@@ -1524,7 +1524,7 @@ div.ppt {
 			}
 				#post .single .post-author .post-author-content .post-author-text h5 {
 					font-family:'Merriweather Sans', Arial, sans-serif;
-					color:#482e60;
+					color:#5dbc44;
 					font-size:14px;
 					line-height:18px;
 					font-weight:700;
@@ -1601,7 +1601,7 @@ div.ppt {
 		font-weight:700;
 		margin-bottom:15px;	
 	}
-		#post.page-author .author-top h4 span, #post.page-search .search-top h4 span, #post.page-search .search-top .search-info span { color:#482e60; }
+		#post.page-author .author-top h4 span, #post.page-search .search-top h4 span, #post.page-search .search-top .search-info span { color:#5dbc44; }
 	
 /* Page Author */
 
@@ -1692,7 +1692,7 @@ div.ppt {
 	border:1px solid #e9e9e9;
 }
 #post .page-contact .post-content-text .address-notes {
-	color:#482e60;
+	color:#5dbc44;
 	font-size:12px;
 	line-height:18px;
 	text-align:right;
@@ -1750,7 +1750,7 @@ div.ppt {
 		margin-bottom:40px;
 	}
 		#portfolio .portfolio-menu a { color:#404040; }
-		#portfolio .portfolio-menu a:hover, #portfolio .portfolio-menu a.active { color:#482e60; }
+		#portfolio .portfolio-menu a:hover, #portfolio .portfolio-menu a.active { color:#5dbc44; }
 		#portfolio .portfolio-menu .sep-menu {
 			color:#d0d0d0;
 			padding:0px 20px;
@@ -1768,7 +1768,7 @@ div.ppt {
 			text-align:center;
 			text-transform:uppercase;
 			font-weight:700;
-			background-color:#482e60;
+			background-color:#5dbc44;
 		}
 		#portfolio .portfolio-menu .portfolio-menu-nav { padding:10px 25px 10px 160px; }
 	#portfolio .portfolio-items { padding-bottom:10px; }
@@ -1791,7 +1791,7 @@ div.ppt {
 		line-height:18px;
 		text-transform:uppercase;
 		font-weight:700;
-		background-color:#482e60;
+		background-color:#5dbc44;
 		padding:10px 15px;
 	}
 	#portfolio .portfolio .portfolio-meta {
@@ -1879,7 +1879,7 @@ div.ppt {
 			right:30px;
 			bottom:0px;
 			color:#FFF;
-			background-color:#482e60;
+			background-color:#5dbc44;
 			padding:18px 30px;
 			margin:0px;
 			z-index:200;
@@ -1898,7 +1898,7 @@ div.ppt {
 				text-align:right;
 				text-transform:uppercase;
 				font-weight:700;
-				background-color:#482e60;
+				background-color:#5dbc44;
 				padding:10px 15px;
 				margin:0px;
 			}
@@ -1957,7 +1957,7 @@ div.ppt {
 				line-height:18px;
 				text-transform:uppercase;
 				font-weight:700;
-				background-color:#482e60;
+				background-color:#5dbc44;
 				padding:10px 15px;
 				margin:0px;
 			}
@@ -2018,7 +2018,7 @@ div.ppt {
 			color:#FFF;
 			font-weight:700;
 			text-transform:uppercase;
-			background-color:#482e60;
+			background-color:#5dbc44;
 			padding:10px 20px;
 		}
 			#sidebar .widget .header p { margin:0px; }
@@ -2114,7 +2114,7 @@ div.ppt {
 			color:#FFF;
 			line-height:32px;
 			text-transform:lowercase;
-			background-color:#482e60;
+			background-color:#5dbc44;
 			padding:4px 12px 6px;
 		}
 		.widget .tab-pane-tags a:hover { background-color:#c94528; }
@@ -2182,7 +2182,7 @@ div.ppt {
 	}
 	#bottom .header {
 		margin-bottom:25px;
-		border-bottom:1px solid #482e60;
+		border-bottom:1px solid #5dbc44;
 	}
 		#bottom .header p {
 			display:inline-block;
@@ -2192,7 +2192,7 @@ div.ppt {
 			font-weight:700;
 			color:#FFF;
 			text-transform:uppercase;
-			background-color:#482e60;
+			background-color:#5dbc44;
 			padding:6px 12px;
 			margin:0px 0px 0px 20px;	
 		}
@@ -2662,7 +2662,7 @@ div.ppt {
 		display:block;
 		color:#FFF;
 		text-align:center;
-		background-color:#482e60;
+		background-color:#5dbc44;
 		padding:10px 15px;
 	}
 	#portfolio .portfolio-menu a:hover, #portfolio .portfolio-menu a.active {

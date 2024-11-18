@@ -14,15 +14,15 @@ input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focu
 #header .nav-menu-top form input[type="text"]:focus { border:1px solid #eb6042; }
 
 #header .nav-menu-main ul li a {
-	border-right:1px solid #482e60;
-	border-left:1px solid #482e60;
+	border-right:1px solid #5dbc44;
+	border-left:1px solid #5dbc44;
 }
 #header .nav-menu-main .container > ul > li > ul > li > a, #header .nav-menu-main .container > ul > li > ul > li > ul > li > a {
-	background-color:#482e60;
-	border-top:1px solid #482e60;
-	border-bottom:1px solid #482e60;	
+	background-color:#5dbc44;
+	border-top:1px solid #5dbc44;
+	border-bottom:1px solid #5dbc44;	
 }
-#header .nav-menu-main .container > ul > li > ul > li > ul { border-top:1px solid #482e60; }
+#header .nav-menu-main .container > ul > li > ul > li > ul { border-top:1px solid #5dbc44; }
 
 .sub-header a { color:#FFF; } /* Don't change this value */
 
@@ -30,6 +30,6 @@ input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focu
 
 #post .single .post-content-bottom .title, #post .single.single-review .sub-title, #post .single.single-media .sub-title, #post .page-contact .post-content-text h3, #post .page-sitemap .post-content-text h3, #post .page-404 .post-content-text h3, #portfolio .single-portfolio .portfolio-content-bottom .title { background-image:url(border-bottom-title.png); }
 
-#bottom .header { border-bottom:1px solid #482e60; }
+#bottom .header { border-bottom:1px solid #5dbc44; }
 
 #bottom .scrollup { background-image:url(back-to-top.png); }
